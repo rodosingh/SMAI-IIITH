@@ -1,0 +1,18 @@
+# ignore books
+books/DHS/
+
+# What to ignore in Projects
+Projects/[!TR]*
+
+# Assigns checkpoints
+Assignment/**/.ipynb_checkpoints/
+Assignment/**/.vscode/
+Assignment/**/Assign-3_Helping_Materials/
+Assignment/**/*.zip
+
+#Miscellaneous
+Tutorial/
+Lecture-Slides/
+notes/
+
+ProjectList.xlsx
